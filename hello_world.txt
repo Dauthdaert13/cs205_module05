@@ -1,0 +1,3 @@
+Hello World!
+
+This is a way to practce using git, please don't mind me.
